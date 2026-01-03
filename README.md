@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cynthiacxzhang
 - 👀 I’m interested in software development and data analysis
-- 🌱 I’m currently a second year undergraduate Computer Engineering student at the University of Waterloo
+- 🌱 I’m currently a third year undergraduate Computer Engineering student at the University of Waterloo
 - 💞️ I’m looking to collaborate on side projects and hackathons
 - 📫 How to reach me : @cynthiacxzhang on Linkedin and most other networking platforms
 

@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @cynthiacxzhang
-- 👀 I’m interested in software development and data analysis
-- 🌱 I’m currently a third year undergraduate Computer Engineering student at the University of Waterloo
-- 💞️ I’m looking to collaborate on side projects and hackathons
-- 📫 How to reach me : @cynthiacxzhang on Linkedin and most other networking platforms
+I study intelligence — machine and human — to bridge frontier model capabilities with compliance and ethics-driven design in high-stakes systems.
 
-<!---
-cynthiacxzhang/cynthiacxzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering at Waterloo, double minoring in psychology and cognitive science. Researching model fairness and AI literacy at the TRuST Network, Waterloo — investigating how over-generalization degrades model performance on minority groups and building tools to make those failures legible to policymakers. Policy advisor at the IPC, Ontario's AI and data privacy regulatory body. Formerly at RBC Borealis.
+
+currently exploring
+- multimodal learning in content delivery networks
+- few-shot and zero-shot evaluation for high-risk domains
+- chain-of-thought annotation for complex risk scenarios
+- AI liability frameworks
+- data governance under PIPEDA and the EU AI Act
